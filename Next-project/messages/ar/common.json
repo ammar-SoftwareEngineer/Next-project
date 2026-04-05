@@ -1,0 +1,15 @@
+{
+  "site": {
+    "title": "تطبيق Next",
+    "description": "مُنشأ بواسطة Create Next App"
+  },
+  "header": {
+    "brand": "عرض Next",
+    "nav": {
+      "home": "الرئيسية"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} عرض Next. جميع الحقوق محفوظة."
+  }
+}
